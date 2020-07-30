@@ -1,0 +1,114 @@
+<annotation>
+    <folder>ImageSets</folder>
+    <filename>Invoice-D-085-Plain-page-001 (1).jpg</filename>
+    <path>/data/JPEGImages/Invoice-D-085-Plain-page-001 (1).jpg</path>
+    <source><database>Unknown</database></source>
+    <size>
+    <width>600</width>
+    <height>800</height>
+    <depth>3</depth></size>
+    <segmented>0</segmented>
+    <object>
+      <name>top_other</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>34.0</xmin>
+        <ymin>39.0</ymin>
+        <xmax>72.0</xmax>
+        <ymax>54.000003814697266</ymax>
+      </bndbox>
+  </object>
+    
+    <object>
+      <name>company_detail</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>202.0</xmin>
+        <ymin>31.0</ymin>
+        <xmax>332.0</xmax>
+        <ymax>93.0</ymax>
+      </bndbox>
+  </object>
+    
+    <object>
+      <name>customer_detail</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>29.0</xmin>
+        <ymin>113.0</ymin>
+        <xmax>193.0</xmax>
+        <ymax>204.0</ymax>
+      </bndbox>
+  </object>
+    
+    <object>
+      <name>invoice_detail</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>390.0</xmin>
+        <ymin>82.0</ymin>
+        <xmax>541.0</xmax>
+        <ymax>157.0</ymax>
+      </bndbox>
+  </object>
+    
+    <object>
+      <name>table</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>38.0</xmin>
+        <ymin>219.0</ymin>
+        <xmax>564.0</xmax>
+        <ymax>402.0</ymax>
+      </bndbox>
+  </object>
+    
+    <object>
+      <name>table_total</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>407.0</xmin>
+        <ymin>411.0</ymin>
+        <xmax>562.0</xmax>
+        <ymax>489.0</ymax>
+      </bndbox>
+  </object>
+    
+    <object>
+      <name>bottom_other</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>34.0</xmin>
+        <ymin>412.0</ymin>
+        <xmax>316.0</xmax>
+        <ymax>440.0</ymax>
+      </bndbox>
+  </object>
+    
+    <object>
+      <name>invoice_detail</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+        <xmin>34.0</xmin>
+        <ymin>442.9999694824219</ymin>
+        <xmax>283.0</xmax>
+        <ymax>477.0</ymax>
+      </bndbox>
+  </object>
+    </annotation>

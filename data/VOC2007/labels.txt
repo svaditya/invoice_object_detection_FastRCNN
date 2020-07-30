@@ -1,0 +1,8 @@
+background
+bottom_other
+company_detail
+customer_detail
+invoice_detail
+table
+table_total
+top_other
